@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  StarWars
 //
-//  Created by Fred on 2/3/17.
+//  Created by Robert Bondaruk on 2/3/17.
 //  Copyright © 2017 Fred. All rights reserved.
 //
 

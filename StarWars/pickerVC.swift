@@ -2,7 +2,7 @@
 //  startVC.swift
 //  StarWars
 //
-//  Created by Fred on 2/4/17.
+//  Created by Robert Bondaruk on 2/4/17.
 //  Copyright © 2017 Fred. All rights reserved.
 //
 
